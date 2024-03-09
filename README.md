@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a memory game card from MLH!
+- 🌱 I’m currently learning Requirements Analysis/Engineering, Computer Networks, and HCI
+- 👯 I’m looking to collaborate on navigating adulthood
+- 🤔 I’m looking for help with a career search!
+- 💬 Ask me about crocheting!
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: I love black sesame soy milk.
+
 <!--
 **jtly102/jtly102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
