@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a memory game card from MLH!
+- 🔭 I’m currently working on a memory game card from MLH and how to make an 8-bit game music!
 - 🌱 I’m currently learning Requirements Analysis/Engineering, Computer Networks, and HCI
 - 👯 I’m looking to collaborate on navigating adulthood
 - 🤔 I’m looking for help with a career search!
